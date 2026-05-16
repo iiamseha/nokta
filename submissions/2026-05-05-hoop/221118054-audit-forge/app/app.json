@@ -11,7 +11,15 @@
     "ios": {
       "bundleIdentifier": "com.nokta.auditforge"
     },
-    "plugins": ["expo-router"],
-    "scheme": "noktaauditforge"
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "noktaauditforge",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "9ecac19a-9dd5-4a15-a147-7f459ab885f7"
+      }
+    }
   }
 }
