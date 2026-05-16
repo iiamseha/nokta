@@ -1,0 +1,11 @@
+APK PLACEHOLDER — gerçek APK build sonrası bu dosya değiştirilecek.
+
+Build adımları:
+  cd submissions/221118054-audit-forge/app
+  npm install
+  npm install -g eas-cli
+  eas login
+  eas build --platform android --profile preview
+
+Build bitince indirilen .apk dosyasını bu konuma
+app-release.apk olarak kopyala (bu placeholder'ın üstüne yaz).
