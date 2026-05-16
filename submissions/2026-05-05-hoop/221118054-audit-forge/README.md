@@ -46,7 +46,7 @@ host application boundary'nin dışında yaşar.
 ## Demo
 
 - **Expo QR / link:** `cd app && npm install && npx expo start`
-- **Demo video (≤60 sn):** [video linki buraya eklenecek]
+- **Demo video (≤60 sn):** https://youtube.com/shorts/xz237wWkMiM
 - **APK:** `app-release.apk` (kök submission klasöründe)
 
 ---
